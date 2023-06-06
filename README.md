@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @21Ner04
-
-<a href="[ссылканаизображение](https://images-ext-2.discordapp.net/external/dnkRp3NFGcHum_z5YK0NRErxsP1K_dsCfkr3uvqnbR4/https/media.tenor.com/Z6gmDPeM6dgAAAPo/dance-moves.mp4).gif"><img src="[ссылканаизображение](https://images-ext-2.discordapp.net/external/dnkRp3NFGcHum_z5YK0NRErxsP1K_dsCfkr3uvqnbR4/https/media.tenor.com/Z6gmDPeM6dgAAAPo/dance-moves.mp4).gif" alt="Описание изображения" width="500"></a>
-
+ 
+ ![nice](https://github.com/21Ner04/21Ner04/assets/133259264/b5a0d812-7425-4330-85a7-a08affedaa1b)
