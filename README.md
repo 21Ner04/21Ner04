@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @21Ner04
  
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://github.com/21Ner04/21Ner04/assets/133259264/981455c5-1934-4d7c-81d0-8f2d617c26d2" width="200" height="400" />
 
+
+![pngwing com](https://github.com/21Ner04/21Ner04/assets/133259264/981455c5-1934-4d7c-81d0-8f2d617c26d2)
