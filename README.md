@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @21Ner04
  
-<img src="https://github.com/21Ner04/21Ner04/assets/133259264/981455c5-1934-4d7c-81d0-8f2d617c26d2" width="200" height="400" />
+<img src="https://github.com/21Ner04/21Ner04/assets/133259264/7ffe53b5-db5e-47b6-9104-bca8eb914849" width="500" height="500" />
 
 
-![pngwing com](https://github.com/21Ner04/21Ner04/assets/133259264/981455c5-1934-4d7c-81d0-8f2d617c26d2)
