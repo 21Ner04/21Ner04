@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 !
-
-[nice](https://github.com/21Ner04/21Ner04/assets/133259264/eb93cf26-6843-416d-bd41-8f7075f3e195)
+(https://github.com/21Ner04/21Ner04/assets/133259264/eb93cf26-6843-416d-bd41-8f7075f3e195)
 
 <!---
 21Ner04/21Ner04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
