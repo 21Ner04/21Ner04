@@ -5,6 +5,6 @@
 __________
 
 * 🧠 В данный момент изучаю React, SQL, TS.
-📫 How to reach me ttobievna@yandex.ru
+* 📫 How to reach me ttobievna@yandex.ru
 
 _________
