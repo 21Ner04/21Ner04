@@ -4,7 +4,7 @@
 
 __________
 
-* 🧠 I’m currently learning React,SQL,TS,С#.
+* 🧠 I’m currently learning JS,React,SQL,TS,С#.
 * 📫 How to contact me ttobievna@yandex.ru
 
 _________
