@@ -4,7 +4,5 @@
 
 __________
 
-* 🧠 I’m currently learning JS,ReactJS,NodeJS,HTML5,CSS3,Git,WebPack,Sass/Scss,SQL,TS,С#.
 * 📫 How to contact me ttobievna@yandex.ru
-
 _________
